@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FlashQuiz/static/css/main.fbedf18e.css",
+    "main.js": "/FlashQuiz/static/js/main.6190f533.js",
+    "static/js/453.bb255750.chunk.js": "/FlashQuiz/static/js/453.bb255750.chunk.js",
+    "index.html": "/FlashQuiz/index.html",
+    "main.fbedf18e.css.map": "/FlashQuiz/static/css/main.fbedf18e.css.map",
+    "main.6190f533.js.map": "/FlashQuiz/static/js/main.6190f533.js.map",
+    "453.bb255750.chunk.js.map": "/FlashQuiz/static/js/453.bb255750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbedf18e.css",
+    "static/js/main.6190f533.js"
+  ]
+}
